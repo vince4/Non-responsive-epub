@@ -1,0 +1,4 @@
+/* Safari set a 8px top margin to body */
+body {
+	margin: 0px !important;
+} 

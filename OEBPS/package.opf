@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:opf="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">510118</dc:identifier>
+    <dc:title id="title">Italiano - Guía de conversación</dc:title>
+    <dc:language>es</dc:language>
+    <dc:publisher>Assimil</dc:publisher>
+    <dc:creator id="creator0">Jean-Pierre Guglielmi</dc:creator>
+    <dc:contributor id="contributor2">Prismallia</dc:contributor>
+    <dc:contributor>Jean-Pierre Guglielmi</dc:contributor>
+    <dc:description>
+  ¡Atención! ¡Libro digital ampliamente enriquecido!
+
+
+   ¿Roma, Florencia o Turín? El creador del famoso método Assimil ha diseñado para ti esta indispensable compañera para tu escapada turística o viaje de negocios a Italia.
+° Más de 2h de audio
+° Iniciación al idioma: 21 lecciones de italiano
+° Palabras y frases indispensables
+° Toda la pronunciación
+° Todas las situaciones de viaje
+
+
+</dc:description>
+    <dc:rights>Copyright Assimil 2013</dc:rights>
+    <meta property="identifier-type" refines="#uid" scheme="onix:codelist5">15</meta>
+    <meta property="title-type" refines="#title">main</meta>
+    <meta name="primary-writing-mode" content="horizontal-lr"/>
+    <meta property="role" refines="#creator0" scheme="marc:relators">aut</meta>
+    <meta property="role" refines="#contributor2" scheme="marc:relators">mrk</meta>
+    <meta property="rendition:layout">reflowable</meta>
+    <meta property="dcterms:modified">2015-01-06T15:54:06Z</meta>
+  </metadata>
+  <manifest>
+    <item id="h_italiano-tpc-36" href="italiano-tpc-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="c_styles" href="Css/styles.css" media-type="text/css"/>
+  </manifest>
+  <spine>
+    <itemref idref="h_italiano-tpc-36"/>
+  </spine>
+</package>
